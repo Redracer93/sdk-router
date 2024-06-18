@@ -49,7 +49,7 @@
     "@ethersproject/contracts": "^5.7.0",
     "big.js": "^5.2.2",
     "decimal.js-light": "^2.5.1",
-    "ethers": "^5.7.2",
+    "ethers": "^6.13.0",
     "jsbi": "^4.3.0",
     "tiny-invariant": "^1.2.0",
     "toformat": "^2.0.0"
